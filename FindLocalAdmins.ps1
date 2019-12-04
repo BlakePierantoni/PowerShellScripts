@@ -1,5 +1,5 @@
 #################################################################
-# Title: High Performance Power settings
+# Title: Find Local Admins
 # Author: Blake Pierantoni
 # Date: 2019/08/26
 # Description: Look for computers in AD and create a CSV of local admins on the machines. 
