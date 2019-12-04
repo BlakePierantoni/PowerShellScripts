@@ -2,8 +2,7 @@
 # Title: High Performance Power settings
 # Author: Blake Pierantoni
 # Date: 2019/08/26
-# Description: Adjusts the power settings for a machine to run as high performance
-# Note: Do not run on laptops, tablets, surfaces, or mobile devices. 
+# Description: Adjusts the power settings for a machine to run as high performance. 
 #################################################################
 
 
